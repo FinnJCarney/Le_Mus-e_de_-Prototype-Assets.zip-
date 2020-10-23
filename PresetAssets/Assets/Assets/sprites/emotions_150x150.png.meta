@@ -1,0 +1,731 @@
+fileFormatVersion: 2
+guid: c0c6639b69eef5e4e9a69c5d8e04e5c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3629512362674459315
+    second: emotions_150x150_0
+  - first:
+      213: -723922610950543597
+    second: emotions_150x150_1
+  - first:
+      213: -9199896996691648174
+    second: emotions_150x150_2
+  - first:
+      213: 312022860721154534
+    second: emotions_150x150_3
+  - first:
+      213: 6779233634942456485
+    second: emotions_150x150_4
+  - first:
+      213: 4396992374503357371
+    second: emotions_150x150_5
+  - first:
+      213: 1333190626463989055
+    second: emotions_150x150_6
+  - first:
+      213: -5811714964773993773
+    second: emotions_150x150_7
+  - first:
+      213: 3936753214948128425
+    second: emotions_150x150_8
+  - first:
+      213: 8607939867153780694
+    second: emotions_150x150_9
+  - first:
+      213: -8896419328619056648
+    second: emotions_150x150_10
+  - first:
+      213: -9062734267594306315
+    second: emotions_150x150_11
+  - first:
+      213: 4549109150096499115
+    second: emotions_150x150_12
+  - first:
+      213: 4978735015000291718
+    second: emotions_150x150_13
+  - first:
+      213: 379332233468743391
+    second: emotions_150x150_14
+  - first:
+      213: -5439701906515774184
+    second: emotions_150x150_15
+  - first:
+      213: -5842804691594884134
+    second: emotions_150x150_16
+  - first:
+      213: -3175631776125630169
+    second: emotions_150x150_17
+  - first:
+      213: -7113870893137276065
+    second: emotions_150x150_18
+  - first:
+      213: -7982447414326556665
+    second: emotions_150x150_19
+  - first:
+      213: 7217708687096056047
+    second: emotions_150x150_20
+  - first:
+      213: -2564136962477874258
+    second: emotions_150x150_21
+  - first:
+      213: -7950336579386057987
+    second: emotions_150x150_22
+  - first:
+      213: 2145504606736695364
+    second: emotions_150x150_23
+  - first:
+      213: -120221693930428267
+    second: emotions_150x150_24
+  - first:
+      213: 5831346920688989576
+    second: emotions_150x150_25
+  - first:
+      213: 459047511323692590
+    second: emotions_150x150_26
+  - first:
+      213: 7844615701576227537
+    second: emotions_150x150_27
+  - first:
+      213: -6583489277751845351
+    second: emotions_150x150_28
+  - first:
+      213: 3284445762835375125
+    second: emotions_150x150_29
+  - first:
+      213: -1743216713467654373
+    second: emotions_150x150_30
+  - first:
+      213: -8432469225034895043
+    second: emotions_150x150_31
+  - first:
+      213: 6366613783443975888
+    second: emotions_150x150_32
+  - first:
+      213: -2254941220901342037
+    second: emotions_150x150_33
+  - first:
+      213: 3489530706084234922
+    second: emotions_150x150_34
+  - first:
+      213: 7583491069738329232
+    second: emotions_150x150_35
+  - first:
+      213: -8121294555420811517
+    second: emotions_150x150_36
+  - first:
+      213: 2012265694440958847
+    second: emotions_150x150_37
+  - first:
+      213: -556699131648722994
+    second: emotions_150x150_38
+  - first:
+      213: -7314386015144108074
+    second: emotions_150x150_39
+  - first:
+      213: 8970922879362050419
+    second: emotions_150x150_40
+  - first:
+      213: 8832968062072598999
+    second: emotions_150x150_41
+  - first:
+      213: -7129862914175127514
+    second: emotions_150x150_42
+  - first:
+      213: -3701253051201921692
+    second: emotions_150x150_43
+  - first:
+      213: -3510709435903346884
+    second: emotions_150x150_44
+  - first:
+      213: -4122102154075618586
+    second: emotions_150x150_45
+  - first:
+      213: 1529828000963859143
+    second: emotions_150x150_46
+  - first:
+      213: -8651803255684582165
+    second: emotions_150x150_47
+  - first:
+      213: -8736880065566419408
+    second: emotions_150x150_48
+  - first:
+      213: 4329280442709460536
+    second: emotions_150x150_49
+  - first:
+      213: 3326443481319478566
+    second: emotions_150x150_50
+  - first:
+      213: 880400788716178672
+    second: emotions_150x150_51
+  - first:
+      213: 5235637412484328859
+    second: emotions_150x150_52
+  - first:
+      213: -8510438998866221090
+    second: emotions_150x150_53
+  - first:
+      213: 5985334079254541404
+    second: emotions_150x150_54
+  - first:
+      213: -5048738769851421864
+    second: emotions_150x150_55
+  - first:
+      213: 9142640508477270951
+    second: emotions_150x150_56
+  - first:
+      213: -3642472830473387672
+    second: emotions_150x150_57
+  - first:
+      213: -3716217149986717720
+    second: emotions_150x150_58
+  - first:
+      213: 7008065130224627445
+    second: emotions_150x150_59
+  - first:
+      213: -927839486784058449
+    second: emotions_150x150_60
+  - first:
+      213: 5646952946101798043
+    second: emotions_150x150_61
+  - first:
+      213: -7082981595551083706
+    second: emotions_150x150_62
+  - first:
+      213: -5694527852262485127
+    second: emotions_150x150_63
+  - first:
+      213: -4855394237257778433
+    second: emotions_150x150_64
+  - first:
+      213: 4389582498193637418
+    second: emotions_150x150_65
+  - first:
+      213: 8136095894998827879
+    second: emotions_150x150_66
+  - first:
+      213: -8337820906841184788
+    second: emotions_150x150_67
+  - first:
+      213: 6685031553861471913
+    second: emotions_150x150_68
+  - first:
+      213: 329853582606470909
+    second: emotions_150x150_69
+  - first:
+      213: 8615250983817849036
+    second: emotions_150x150_70
+  - first:
+      213: -4038293824221581911
+    second: emotions_150x150_71
+  - first:
+      213: -8945648431540010096
+    second: emotions_150x150_72
+  - first:
+      213: -9171605752036914864
+    second: emotions_150x150_73
+  - first:
+      213: 5707801368455491753
+    second: emotions_150x150_74
+  - first:
+      213: -2408151628653843743
+    second: emotions_150x150_75
+  - first:
+      213: 2768711448309824792
+    second: emotions_150x150_76
+  - first:
+      213: 8181518058818389277
+    second: emotions_150x150_77
+  - first:
+      213: -7616281210227412181
+    second: emotions_150x150_78
+  - first:
+      213: 7100775242791989224
+    second: emotions_150x150_79
+  - first:
+      213: 5468271973129129034
+    second: emotions_150x150_80
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: emotions_150x150_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d66e27cb161adc0800000000000000
+      internalID: -3629512362674459315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotions_150x150_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 450
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3176b69883c14f5f0800000000000000
+      internalID: -723922610950543597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotions_150x150_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 450
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251e206bc66635080800000000000000
+      internalID: -9199896996691648174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotions_150x150_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 450
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9e51f7327845400800000000000000
+      internalID: 312022860721154534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotions_150x150_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a21024b21da41e50800000000000000
+      internalID: 6779233634942456485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotions_150x150_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 300
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbbf52b441450d30800000000000000
+      internalID: 4396992374503357371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotions_150x150_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d344cafc1708210800000000000000
+      internalID: 1333190626463989055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotions_150x150_7
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 300
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d203d40804a85fa0800000000000000
+      internalID: -5811714964773993773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotions_150x150_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a63c51f03822a630800000000000000
+      internalID: 3936753214948128425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotions_150x150_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 150
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfcf9dc3bb857770800000000000000
+      internalID: 8607939867153780694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotions_150x150_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 150
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1fdb081c1998480800000000000000
+      internalID: -8896419328619056648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotions_150x150_11
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 150
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc08463333ba3280800000000000000
+      internalID: -9062734267594306315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotions_150x150_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba12bf77baea12f30800000000000000
+      internalID: 4549109150096499115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotions_150x150_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68934ef1e15081540800000000000000
+      internalID: 4978735015000291718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotions_150x150_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde82c318a8a34500800000000000000
+      internalID: 379332233468743391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotions_150x150_15
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815bc12dfeb4284b0800000000000000
+      internalID: -5439701906515774184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d8b44d362b401de48bc0fc441621b806
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
